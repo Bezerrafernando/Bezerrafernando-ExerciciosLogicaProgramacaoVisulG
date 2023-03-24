@@ -70,10 +70,8 @@ Essa ferramenta é ideal para o aprendizado das técnicas de elaboração de alg
 #Referências:
  
 # https://pt.wikipedia.org/wiki/Portugol
-# «Portugol (Português Estruturado) e VisuAlg como tudo começou». Fevereiro de 2023. Consultado em 5 de fevereiro de 2023
-# «Mapler - Interpretador Portugol». Fevereiro de 2023. Consultado em 5 de fevereiro de 2023
-# «Portugol Viana». SourceForge. Consultado em 23 de fevereiro de 2011
+Portugol (Português Estruturado) e VisuAlg como tudo começou». Fevereiro de 2023. Consultado em 5 de fevereiro de 2023
+
 # https://pt.wikipedia.org/wiki/Visualg
-#Apoio Informática. VisuAlg. Consultado em 06 de julho de 2018.
-#SourceForge. VISUALG 3.0. Consultado em 06 de julho de 2018.
-#Visualg 3.0. Consultado em 06 de julho de 2018.
+Apoio Informática. VisuAlg. Consultado em 06 de julho de 2018.
+
